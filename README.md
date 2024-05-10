@@ -1,7 +1,7 @@
 <h1>Wasserstein GANs for Deblurring Textual Images</h1>
 
 <p>This project aims to use Wasserstein Generative Adversarial Networks (Wasserstein GANs) to deblur textual images. The model is trained on the dataset available at <a href="https://www.kaggle.com/datasets/pbrant/text-image-with-motion-blur">Kaggle</a>. The dataset contains images of text with simulated motion blur, making it suitable for training a deblurring model.</p>
-
+<a href="https://www.kaggle.com/datasets/pbrant/text-image-with-motion-blur"> Link To Dataset</a>
 <h2>Project Structure</h2>
 <ul>
   <li><strong>Wasserstein_GAN_Text_Deblur.ipynb</strong>: Jupyter Notebook containing all project code.</li>
